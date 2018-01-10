@@ -1,0 +1,8 @@
+﻿<?xml version="1.0"?>
+<Filter Name="Notch" k ="1">
+  <Zeros>
+  </Zeros>
+  <Poles>
+	 <pole x="-0.383" y=" 0.5"/>
+  </Poles>
+</Filter>
